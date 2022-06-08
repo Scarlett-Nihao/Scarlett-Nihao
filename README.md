@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Scarlett-Nihao
-- 👀 I’m interested in ...
+- 👀 My website is scarlettnihao.com
 - 🌱 I’m currently learning to code on freeCodeCamp.org
 - 📫 My email is: scarlett.nihao@gmail.com
 
